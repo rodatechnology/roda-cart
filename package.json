@@ -1,5 +1,5 @@
 {
-  "name": "roda-cart",
+  "name": "@rodatechnology/roda-cart",
   "version": "0.0.1",
   "description": "Quickly add shopping cart functionality to a react project.",
   "main": "dist/index.js",
