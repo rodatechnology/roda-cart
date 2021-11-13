@@ -1,0 +1,29 @@
+{
+  "name": "roda-cart",
+  "version": "0.0.1",
+  "description": "Quickly add shopping cart functionality to a react project.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc --declaration"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodatechnology/roda-cart.git"
+  },
+  "author": "Jack Minchin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodatechnology/roda-cart/issues"
+  },
+  "homepage": "https://github.com/rodatechnology/roda-cart#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "shopify-buy": "^2.13.0",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.34",
+    "@types/shopify-buy": "^2.10.8"
+  }
+}
